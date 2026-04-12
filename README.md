@@ -114,9 +114,7 @@ The application lives in `016_real_estate_website`.
 
 ### Live deployment
 
-```text
-https://homepy-aggrqej8vtvemzm3japd32.streamlit.app/
-```
+[Streamlit App](https://homepy-aggrqej8vtvemzm3japd32.streamlit.app/)
 
 ### Pages
 
