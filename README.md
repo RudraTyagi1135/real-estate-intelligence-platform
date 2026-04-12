@@ -112,6 +112,12 @@ Model input features exposed by `df.pkl`:
 
 The application lives in `016_real_estate_website`.
 
+### Live deployment
+
+```text
+https://homepy-aggrqej8vtvemzm3japd32.streamlit.app/
+```
+
 ### Pages
 
 - `home.py`: app entrypoint
