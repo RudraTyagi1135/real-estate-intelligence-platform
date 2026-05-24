@@ -16,7 +16,7 @@
 # 🌐 Live Application
 
 🚀 **Streamlit Deployment:**  
-https://real-estate-intelligence-platform-1.streamlit.app/
+https://real-estate-intelligence-platform-1135.streamlit.app/
 
 ---
 
